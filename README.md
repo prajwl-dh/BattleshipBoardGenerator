@@ -5,6 +5,12 @@ Input:
 
 ![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/1Info.png)
 
+![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/1Input.png)
+
+![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/2Input.png)
+
+![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/3Input.png)
+
 Output:
 
 
