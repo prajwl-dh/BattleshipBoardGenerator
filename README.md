@@ -16,6 +16,9 @@ Input:
 
 Output:
 
+![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/5Output.png)
+
+![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/6Output.png)
 
 
 Closing the program:
