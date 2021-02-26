@@ -11,6 +11,8 @@ Input:
 
 ![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/3Input.png)
 
+![Sample Output](https://github.com/prajwl-dh/BattleshipBoardGenerator/blob/master/4Input.png)
+
 Output:
 
 
